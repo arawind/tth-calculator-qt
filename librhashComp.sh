@@ -1,0 +1,2 @@
+cd librhash
+make all
